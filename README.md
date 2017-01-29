@@ -1,4 +1,7 @@
 # We Are Hiring!
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94d4382f8fd54877b0c5549eed91a25b)](https://www.codacy.com?utm_source=github.com&utm_medium=referral&utm_content=HomeValueDotCom/We-Are-Hiring&utm_campaign=badger)
+
 **We are actively looking to add talented engineers to our team**, which is why we made this repo! If you have a passion for software development, real estate tech, and like to play with large datasets, reach out by sending us your GitHub and/or resume. To break the email ice, mention you found this on GitHub. We enjoy working in GitHub which means we already have something in common to talk about. If you have any questions, feel free to submit a pull request. 
 
 
